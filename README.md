@@ -1,6 +1,6 @@
 # Sistema de Análisis y Generación de Informes con Django y Pandas
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache-blue.svg)](LICENSE)
 
 ## Descripción
 
