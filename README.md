@@ -42,9 +42,9 @@ Proporciona [aquí](docs/INSTALL.md) documentación detallada sobre cómo instal
 
 ## Equipo de Desarrollo
 
-- [Nombre del Desarrollador](https://github.com/usuario): Rol
+- [Nombre del Desarrollador](https://github.com/saulcanche): Main developer
 - [Nombre del Desarrollador](https://github.com/usuario): Rol
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+Este proyecto está licenciado bajo la [Licencia Apache](LICENSE).
